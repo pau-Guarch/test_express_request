@@ -1,0 +1,14 @@
+
+
+GET http://localhost:3000/movies
+
+####
+GET http://localhost:3000/movies/2
+
+###
+DELETE http://localhost:3000/movies/remove/2
+
+###
+POST http://localhost:3000/movies/add 
+
+
